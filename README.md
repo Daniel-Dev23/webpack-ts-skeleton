@@ -2,12 +2,12 @@
 
 <div>
     <img src="src/assets/img/webpack.png" alt="Webpack" width="120px">
-    <img src="src/assets/img/javascript.png" alt="Javascript"width="120px">
+    <img src="src/assets/img/typescript.png" alt="Javascript"width="120px">
 </div>
 
-## __¡Bienvenido a Webpack JS!__ 🏆
+## __¡Bienvenido a Webpack TS!__ 🏆
 
-Este repositorio contiene un módulo de Webpack JS configurado desde cero apto como base para proyectos con JavaScript.
+Este repositorio contiene un módulo de Webpack TS configurado desde cero apto como base para proyectos con TypeScript.
 
 Cabe aclarar, que esta no es la única forma para trabajar con Webpack. En Internet existen muchas configuraciones especiales para implementar un módulo de este tipo.
 
@@ -16,6 +16,9 @@ Dependerá de ti saber que tanto puede servirte o no. Independientemente, recuer
 > __"Webpack, será tan complejo como así lo quieras."__
 
 <br>
+
+__NOTA:__ La configuración para está versión de Webpack con TypeScript, toma como base otro proyecto llamado __[webpack-ts-skeleton](https://github.com/Daniel-Dev23/webpack-js-skeleton.git)__.
+
 
 Dicho esto, espero que te agrade. 🙏
 
@@ -30,7 +33,7 @@ __Siéntanse libres de tomar este esqueleto y adaptarla según sus necesidades._
 1. Clona o descarga el contenido del siguiente repositorio: 
 
     ```
-    https://github.com/Daniel-Dev23/webpack-js-skeleton
+    https://github.com/Daniel-Dev23/webpack-ts-skeleton.git
     ```
 
 2. Instala los módulos de Node JS, con el siguiente comando:
