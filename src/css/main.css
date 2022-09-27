@@ -1,0 +1,47 @@
+:root {
+    --color-a: #0D111A;
+    --color-b: #090D12;
+    --color-c: #00C377;
+    --color-d: #74787D;
+    --color-e: #FBB434;
+    --color-f: #F6F6F9;
+}
+
+.main-container,
+.img-wrapper, 
+.main-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.main-container {
+    min-width: inherit;
+    min-height: inherit;
+    flex-direction: column;
+}
+
+.img-wrapper {
+    flex-direction: row;
+}
+.picture {
+    width: 150px;
+}
+.picture__img {
+    width: inherit;
+}
+
+.main-wrapper {
+    padding: 20px;
+    flex-direction: column;
+}
+.welcome {
+    font-size: 30px;
+    font-weight: bold;
+    color: #FBB434;
+}
+.description {
+    text-align: center;
+    font-size: 18px;
+}

@@ -1,0 +1,12 @@
+{
+  "name": "webpack-js-skeleton",
+  "version": "0.0.0",
+  "description": "Configured skeleton of a Webpack JS module adapted for Javascript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel-Dev23",
+  "license": "ISC"
+}
