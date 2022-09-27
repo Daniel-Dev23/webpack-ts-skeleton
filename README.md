@@ -1,7 +1,9 @@
 # __Webpack JS__
 
-<img src="src/assets/img/webpack.png" alt="Webpack" width="120px">
-<img src="src/assets/img/javascript.png" alt="Javascript"width="120px">
+<div>
+    <img src="src/assets/img/webpack.png" alt="Webpack" width="120px">
+    <img src="src/assets/img/javascript.png" alt="Javascript"width="120px">
+</div>
 
 ## __¡Bienvenido a Webpack JS!__ 🏆
 
