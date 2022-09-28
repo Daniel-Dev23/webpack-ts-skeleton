@@ -19,8 +19,11 @@ Dependerá de ti saber que tanto puede servirte o no. Independientemente, recuer
 
 __NOTA:__ La configuración para está versión de Webpack con TypeScript, toma como base otro proyecto llamado __[webpack-ts-skeleton](https://github.com/Daniel-Dev23/webpack-js-skeleton.git)__.
 
-
 Dicho esto, espero que te agrade. 🙏
+
+<br>
+
+__[Ver Imágenes de Proyecto](./thumbnails.md)__
 
 <br>
 
