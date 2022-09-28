@@ -1,5 +1,7 @@
 # __Webpack TS Skeleton Thumbnails__
 
+Estas imágenes, son el resultado que se da después de generar el build de desarrollo, producción o el servidor de pruebas.
+
 > __Versión Móvil__
 
 <div>
